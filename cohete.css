@@ -1,0 +1,15 @@
+body {
+    background-image: url(estrellas2.jpg);
+}
+#proyectil{
+  display: none;
+}
+#proyectil.present{
+  display: inherit;
+}
+#monstruo{
+  float:right;
+}
+#cohete{
+
+}
